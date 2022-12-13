@@ -1,0 +1,49 @@
+*{margin: 0; padding:0; box-sizing: border-box;}
+.main
+{
+    padding-inline: 10px;
+    padding-left: 100px;
+}
+
+.nav
+{
+    width:100;
+    background-color: #1c335f ;
+    color: white;
+    font-size: medium;
+
+}
+
+.link{
+    color: darkgray!important;
+    margin: 3px;
+}
+.link:hover {
+    color: rgb(94, 94, 255)!important;
+}
+.nav-item
+{
+    padding: 5px;
+    margin: 10px;
+    float: left;
+} 
+svg
+{
+margin: 10px;
+color: white;
+
+}
+.nav-icon
+{
+    margin-right:100px;
+}
+.logo-txt
+{
+    color: rgb(100, 113, 127)!important;
+    font-size:26px;
+    font-weight: 400;
+}
+#carouselExampleCaptions{
+    carousel-control-width:15%;
+
+}
